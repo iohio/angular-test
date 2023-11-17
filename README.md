@@ -30,8 +30,8 @@ This is a simple Employee CRUD (Create, Read, Update, Delete) application that a
   - JavaScript
 
 - Backend:
-  - Your preferred backend language (e.g., Node.js, Python, Ruby, etc.)
-  - Your preferred database (e.g., MySQL, PostgreSQL, MongoDB, etc.)
+  - Nodejs
+  - Mysql
 
 ## Getting Started
 
@@ -39,7 +39,6 @@ This is a simple Employee CRUD (Create, Read, Update, Delete) application that a
 
 - Node.js and npm
 - Angular CLI (install using `npm install -g @angular/cli`)
-- Your preferred backend language and database installed and configured
 
 ### Installation
 
@@ -61,4 +60,7 @@ This is a simple Employee CRUD (Create, Read, Update, Delete) application that a
    ng serve
 
 3. Open your browser and navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+### Backend Link
+    https://github.com/iohio/angular-api
 
