@@ -43,7 +43,22 @@ This is a simple Employee CRUD (Create, Read, Update, Delete) application that a
 
 ### Installation
 
-1. Clone the repository:
+1. Install dependencies::
 
    ```bash
-   git clone https://github.com/your-username/employee-crud.git
+   npm install
+
+### Usage
+
+1. Build the project::
+
+    ```bash
+   ng build
+
+2. Start the development server::
+
+    ```bash
+   ng serve
+
+3. Open your browser and navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
